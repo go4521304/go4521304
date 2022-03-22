@@ -17,8 +17,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=GitHub&logoColor=white)
 </br>
 #
-</br> <img align='right' src='https://github-readme-stats.vercel.app/api?username=go4521304&show_icons=&theme=default'> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/)
+</br> <img align='right' src='https://github-readme-stats.vercel.app/api?username=go4521304&show_icons=&theme=default'>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/)
 </br>
 #
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
