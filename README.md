@@ -25,4 +25,6 @@
 
 #
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
+</br>
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=150&section=footer&text=Bye%20Bye,%20See%20U&fontSize=60&rotate=10&fontAlign=27&fontAlignY=78)
