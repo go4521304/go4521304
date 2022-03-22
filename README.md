@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=C3D6FA&height=150&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=85&fontAlign=50&fontAlignY=50&desc=Hello,%20World!&descSize=22&descAlign=82&descAlignY=84)
+</br></br>
 
 ## 🖥 Skills 👩‍💻
 ### 📝 Languages & Platforms <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=go4521304&layout=compact'>
@@ -15,11 +16,15 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?&style=flat-square&logo=Rider&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=GitHub&logoColor=white)
-</br>
-#
-</br> <img align='right' width="50%" src='https://github-readme-stats.vercel.app/api?username=go4521304&show_icons=&theme=default'>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/)
-</br>
+</br></br>
+
+# 
+</br> 
+<img align='right' width="50%" src='https://github-readme-stats.vercel.app/api?username=go4521304&show_icons=&theme=default'>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/) 
+</br></br>
+
 #
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=150&section=footer&text=Bye%20Bye,%20See%20U&fontSize=60&rotate=10&fontAlign=27&fontAlignY=78)
