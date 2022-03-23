@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=C3D6FA&height=100&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=38&fontAlign=50&fontAlignY=50&desc=Hello,%20World!&descSize=22&descAlign=82&descAlignY=84)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=C3D6FA&height=100&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=48&fontAlign=50&fontAlignY=50)
 </br></br>
 
 ## 🖥 Skills 👩‍💻
