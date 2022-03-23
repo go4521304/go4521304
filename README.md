@@ -31,4 +31,4 @@
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=100&section=footer&text=Bye%20Bye,%20See%20U&fontSize=38&rotate=6&fontAlign=20&fontAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=100&section=footer&text=Bye%20Bye,%20See%20U&fontSize=42&rotate=0&fontAlign=17&fontAlignY=76)
