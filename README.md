@@ -25,7 +25,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/) 
 <img align='right' width="50%" src='https://github-readme-stats.vercel.app/api?username=go4521304&show_icons=&theme=default'> 
-</br></br>
+</br>
 
 #
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
