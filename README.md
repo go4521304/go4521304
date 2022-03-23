@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=C3D6FA&height=150&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=85&fontAlign=50&fontAlignY=50&desc=Hello,%20World!&descSize=22&descAlign=82&descAlignY=84)
+![header](https://capsule-render.vercel.app/api?type=slice&color=C3D6FA&height=100&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=38&fontAlign=50&fontAlignY=50&desc=Hello,%20World!&descSize=22&descAlign=82&descAlignY=84)
 </br></br>
 
 ## 🖥 Skills 👩‍💻
@@ -27,4 +27,4 @@
 #### Contact : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=150&section=footer&text=Bye%20Bye,%20See%20U&fontSize=60&rotate=10&fontAlign=27&fontAlignY=78)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FAEEC2&height=100&section=footer&text=Bye%20Bye,%20See%20U&fontSize=38&rotate=6&fontAlign=20&fontAlignY=68)
