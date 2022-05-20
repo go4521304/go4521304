@@ -3,16 +3,16 @@
 <div align="center">
   
   # 📝 Profile
-  #### - 한국공학대학교 게임공학과 (구. 한국산업기술대학교) 재학중 (2017.02 ~)
+  ### - 한국공학대학교 게임공학과 (구. 한국산업기술대학교) 재학중 (2017.02 ~)
   </br>
   
   # 💼 Project
   
-  #### [Agari! (2018)](https://github.com/kakik/agari)
-  #### [Storage (2021)](https://github.com/go4521304/storage)
-  #### [Agrio (2021)](https://github.com/go4521304/agari_Network)
-  #### [Project_drugman (2021)](https://github.com/go4521304/Project_drugman)
-  #### [나무의 집(2022 ~ )](https://github.com/KPU-Graduation-Project/For_graduation)
+  ### [Agari! (2018)](https://github.com/kakik/agari)
+  ### [Storage (2021)](https://github.com/go4521304/storage)
+  ### [Agrio (2021)](https://github.com/go4521304/agari_Network)
+  ### [Project_drugman (2021)](https://github.com/go4521304/Project_drugman)
+  ### [나무의 집(2022 ~ )](https://github.com/KPU-Graduation-Project/For_graduation)
   </br>
   
   # 🖥 Skills
