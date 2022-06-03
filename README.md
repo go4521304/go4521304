@@ -20,9 +20,9 @@
   # 🖥 Skills
   
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?&style=flat&logo=C%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?&style=flate&logo=Python&logoColor=white)
   ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?&style=flat&logo=Unreal%20Engine&logoColor=white)
   ![Direct3D](https://img.shields.io/badge/Direct3D%2012-0078D6?&style=flat&logo=Windows&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?&style=flate&logo=Python&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?&style=flat&logo=Qt&logoColor=white)
   </br></br></br>
   
