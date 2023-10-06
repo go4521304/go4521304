@@ -9,8 +9,8 @@
   
   # 💼 Project
   
-  ### [백야 (2022~)](https://github.com/go4521304/Backyeah)
-  ### [오르페우스 (2022~)](https://github.com/go4521304/Orpheus)
+  ### [백야 (2022)](https://github.com/go4521304/Backyeah)
+  ### [오르페우스 (2022)](https://github.com/go4521304/Orpheus)
   ### [나무의 집 (2022)](https://github.com/KPU-Graduation-Project/For_graduation)
   ### [Nerver Ending Jump (2022)](https://github.com/go4521304/2022_SGP-Project)
   ### [약 좀 주세요 (2021)](https://github.com/go4521304/Project_drugman)
