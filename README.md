@@ -1,16 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=C3D6FA&height=100&section=header&text=👋Hi!%20I'm%20Kclient&fontSize=48&fontAlign=50&fontAlignY=50)
-
-<div align="center">
-  
-  # 📝 Profile
+ # 📝 Profile
   ### - 니트로스튜디오 (2023.04 ~ )
   ### - 한국공학대학교 게임공학과 졸업 (2017.03 ~ 2023.02)
   </br>
   
   # 💼 Project
   
-  ### [백야 (2022)](https://github.com/go4521304/Backyeah)
-  ### [오르페우스 (2022)](https://github.com/go4521304/Orpheus)
   ### [나무의 집 (2022)](https://github.com/KPU-Graduation-Project/For_graduation)
   ### [Nerver Ending Jump (2022)](https://github.com/go4521304/2022_SGP-Project)
   ### [약 좀 주세요 (2021)](https://github.com/go4521304/Project_drugman)
