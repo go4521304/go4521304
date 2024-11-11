@@ -32,4 +32,3 @@
 
 #
 #### 메일 : <a href="mailto:go4521304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flat&logo=Gmail&logoColor=white)</a>
-#### 블로그 : <a href="https://velog.io/@go4521304">![Velog](https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white)</a>
