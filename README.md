@@ -22,7 +22,7 @@
   ![Direct3D](https://img.shields.io/badge/Direct3D%2012-0078D6?&style=flat&logo=Windows&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?&style=flate&logo=Python&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?&style=flat&logo=Qt&logoColor=white)
-  </br></br></br>
+  </br></br>
   
 </div>
 
