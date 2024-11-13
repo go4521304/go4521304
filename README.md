@@ -24,9 +24,6 @@
   ![Qt](https://img.shields.io/badge/Qt-41CD52?&style=flat&logo=Qt&logoColor=white)
   </br></br></br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=go4521304)](https://solved.ac/go4521304/)
-  
-  
 </div>
 
 
